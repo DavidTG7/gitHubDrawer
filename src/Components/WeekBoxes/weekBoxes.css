@@ -1,0 +1,14 @@
+.week-box {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.box {
+    width: 10px;
+    aspect-ratio: 1;
+    background: #ebedf0;
+    border: solid 1px hsl(210deg 12.9% 12.16% / 6%);
+    border-radius: 3px;
+    margin-left: 4px;
+}
